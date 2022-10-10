@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shubguptaa&count_private=true&show_icons=true&text_color=718096&bg_color=ffffff" />
+ 
+:joystick: Full-Stack Developer
+
+Passionate about people & technology
+
+:triangular_flag_on_post: Australia | India
+
+:mag_right: [LinkedIn Profile](https://www.linkedin.com/in/shubham-gupta-940a18123/)
+
+:coffee: always up for a conversation over coffee
