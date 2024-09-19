@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shubguptaa&count_private=true&show_icons=true&text_color=718096&bg_color=ffffff" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=shubguptaa&count_private=true&show_icons=true&text_color=718096&bg_color=ffffff" /> -->
  
 :joystick: Full-Stack Developer
 
